@@ -1,4 +1,4 @@
-# synchronized_reaction_diffusion
+# Reaction-diffusion equations and moving particles synchronized with music
 Reaction-diffusion equation patterns synchronized to music.
 
 Here's an example:
